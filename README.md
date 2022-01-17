@@ -1,5 +1,6 @@
 
-$ cd car_ecommerce
+
+1 cd car_ecommerce
 2. Setup MongoDB
 Local MongoDB
 Install it from here
