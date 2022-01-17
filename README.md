@@ -1,6 +1,8 @@
 
 
-### 1
+### 1. Clone repo
+
+```
 
 $ cd car_ecommerce
 ```
